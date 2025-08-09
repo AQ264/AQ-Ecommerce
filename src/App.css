@@ -1,0 +1,43 @@
+::-webkit-scrollbar{
+    display: none;
+}
+
+
+body{
+    background-color: #e2e4e6;
+}
+a{
+    text-decoration: none;
+    color: gray;
+    padding-left: 5px;
+}
+a:hover{
+    color: black;
+    background-color: #E5F1FF;
+}
+.section_main{
+    background-image: url('./assets/backgrounds/Banner-board-800x420 2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.homeoutdoor{
+    background-image: url('./assets/backgrounds/homeoutdoor.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.cborder{
+    border: 1px solid rgb(201, 201, 201);
+}
+
+.sourcenowbtn{
+    font-size: 20px;
+}
+.h6text{
+    color: gray;
+}
+.btnrounded{
+    border-radius: 5px;
+}
